@@ -1,0 +1,1 @@
+import{r as e}from"./lib-font-DXLDgUDx.js";var t=class extends e{constructor(e,t,n){let{p:r}=super(e,t,n);this.majorVersion=r.uint16,this.minorVersion=r.uint16}};export{t as EBDT};

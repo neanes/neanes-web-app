@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./lib-font-DXLDgUDx.js";import{n}from"./shared-COWrOfYy.js";var r=class extends t{constructor(t,r,i){let{p:a}=super(t,r,i);this.majorVersion=a.uint16,this.minorVersion=a.uint16,this.numSizes=a.uint32,e(this,`bitMapSizes`,()=>[...Array(this.numSizes)].map(e=>new n(a)))}};export{r as EBLC};

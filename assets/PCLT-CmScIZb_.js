@@ -1,0 +1,1 @@
+import{r as e}from"./lib-font-DXLDgUDx.js";var t=class extends e{constructor(e,t){let{p:n}=super(e,t);console.warn(`This font uses a PCLT table, which is currently not supported by this parser.`),console.warn(`If you need this table parsed, please file an issue, or better yet, a PR.`)}};export{t as PCLT};

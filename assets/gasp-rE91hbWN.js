@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./lib-font-DXLDgUDx.js";var n=class extends t{constructor(t,n){let{p:i}=super(t,n);this.version=i.uint16,this.numRanges=i.uint16,e(this,`gaspRanges`,()=>[...Array(this.numRanges)].map(e=>new r(i)))}},r=class{constructor(e){this.rangeMaxPPEM=e.uint16,this.rangeGaspBehavior=e.uint16}};export{n as gasp};

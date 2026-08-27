@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./lib-font-DXLDgUDx.js";var n=class extends t{constructor(t,n){let{p:r}=super(t,n);e(this,`data`,()=>r.readBytes())}};export{n as CFF};

@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./lib-font-DXLDgUDx.js";var n=class extends t{constructor(t,n){let{p:r}=super(t,n),i=t.length/2;e(this,`items`,()=>[...Array(i)].map(e=>r.fword))}};export{n as cvt};

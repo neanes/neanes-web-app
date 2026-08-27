@@ -1,0 +1,1 @@
+import{r as e}from"./lib-font-DXLDgUDx.js";var t=class extends e{constructor(e,t){let{p:n}=super(e,t)}getGlyphData(e,t){return this.parser.currentPosition=this.tableStart+e,this.parser.readBytes(t)}};export{t as glyf};

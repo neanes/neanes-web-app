@@ -1,0 +1,1 @@
+import{t as e}from"./common-layout-table-CPRp6FOG.js";var t=class extends e{constructor(e,t){super(e,t,`GSUB`)}getLookup(e){return super.getLookup(e,`GSUB`)}};export{t as GSUB};

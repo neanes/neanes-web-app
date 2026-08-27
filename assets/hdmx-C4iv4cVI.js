@@ -1,0 +1,1 @@
+import{r as e}from"./lib-font-DXLDgUDx.js";var t=class extends e{constructor(e,t,r){let{p:i}=super(e,t),a=r.hmtx.numGlyphs;this.version=i.uint16,this.numRecords=i.int16,this.sizeDeviceRecord=i.int32,this.records=[...Array(numRecords)].map(e=>new n(i,a))}},n=class{constructor(e,t){this.pixelSize=e.uint8,this.maxWidth=e.uint8,this.widths=e.readBytes(t)}};export{t as hdmx};

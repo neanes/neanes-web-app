@@ -1,0 +1,1 @@
+import{EBDT as e}from"./EBDT-BA2PADZI.js";var t=class extends e{constructor(e,t){super(e,t,`CBDT`)}};export{t as CBDT};

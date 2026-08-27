@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./lib-font-DXLDgUDx.js";var n=class extends t{constructor(t,n){let{p:r}=super(t,n);e(this,`instructions`,()=>[...Array(t.length)].map(e=>r.uint8))}};export{n as fpgm};

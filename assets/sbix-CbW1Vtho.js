@@ -1,0 +1,1 @@
+import{n as e,r as t}from"./lib-font-DXLDgUDx.js";var n=class extends t{constructor(t,n){let{p:r}=super(t,n);this.version=r.uint16,this.flags=r.flags(16),this.numStrikes=r.uint32,e(this,`strikeOffsets`,()=>[...Array(this.numStrikes)].map(e=>r.Offset32))}};export{n as sbix};
