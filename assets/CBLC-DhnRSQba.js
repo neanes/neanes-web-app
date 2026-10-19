@@ -1,0 +1,1 @@
+import{EBLC as e}from"./EBLC-CLwpKYUZ.js";var t=class extends e{constructor(e,t){super(e,t,`CBLC`)}};export{t as CBLC};
