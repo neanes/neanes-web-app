@@ -1,0 +1,1 @@
+import{r as e}from"./lib-font-B9lVcAJY.js";var t=class extends e{constructor(e,t){let{p:n}=super(e,t);this.version=n.uint16,this.numGlyphs=n.uint16,this.yPels=n.readBytes(this.numGlyphs)}};export{t as LTSH};
